@@ -49,8 +49,8 @@ The dataset used for this project includes information on:
 
 ## Results
 - **Model Performance:**
-  - Mean Squared Error (MSE): *[8169.22811768408]*
-  - R² Score: *[0.11486148252823303]*
+  - Mean Squared Error (MSE): *8169.22811768408*
+  - R² Score: *0.11486148252823303*
 - **Key Findings:**
   - Strong positive correlation between pollutant levels (e.g., PM2.5 and PM10).
   - Significant variation in AQI across cities and states.
